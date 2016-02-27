@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Willow Awards]]></title>
         <description><![CDATA[Willow Awards]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/willow-awards/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 17:50:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 17:52:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/willow-awards/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home page]]></title>
+            <description><![CDATA[<article><h1>Home page</h1><p>Our team of highly skilled, professional Chiropractors provide the highest quality chiropractic care, and outstanding customer service to all patients in Bristol and the South West. Meet our chiropractors Discover what we can treat The Willow Chiropractic Partnership was founded to deliver a higher standard of care and service to patients, with locations all around Bristol and the South West.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/baf5fc19149c841b9f55bbd58b360e54f04c26c0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/willow-awards/home-page/index.html</link>
+            <guid isPermaLink="false">fd568b33-a2a7-4ac2-b998-eaadd4c0fcbe</guid>
+            <pubDate>Sat, 27 Feb 2016 17:52:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>Our team of highly skilled, professional Chiropractors provide the highest quality chiropractic care, and outstanding customer service to all patients in Bristol and the South West. Meet our chiropractors Discover what we can treat The Willow Chiropractic Partnership was founded to deliver a higher standard of care and service to patients, with locations all around Bristol and the South West.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/baf5fc19149c841b9f55bbd58b360e54f04c26c0.jpg"></article>]]></description>
