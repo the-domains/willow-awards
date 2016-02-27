@@ -1,5 +1,4 @@
-layout_spectrum: 0.6544269
-typography_spectrum: 0.188172
+layout_spectrum: 0.1541219
 color:
   saturation: 0.5
   lightness: 0
@@ -11,4 +10,5 @@ color:
     - '#3DEB36'
     - '#FF4005'
   rhythmicContrast: 0.9614133
+typography_spectrum: 0.188172
 name: Willow Awards
